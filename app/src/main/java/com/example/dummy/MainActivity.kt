@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
 
     fun method(){
+fun methodKonflikFarhan(){
+
 }
 
 
