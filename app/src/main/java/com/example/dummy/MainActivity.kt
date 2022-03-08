@@ -23,3 +23,17 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
+
+class CariKonflik(){
+    fun raflyBinar(){
+        println("Ayo buat konflik")
+    }
+
+
+
+
+
+    fun saddamBinar(){
+        println("tes commit saddam")
+    }
+}
