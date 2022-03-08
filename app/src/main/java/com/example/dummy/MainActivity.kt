@@ -9,3 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+
+class CariKonflik(){
+    fun raflyBinar(){
+        println("Ayo buat konflik")
+    }
+}
