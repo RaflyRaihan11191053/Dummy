@@ -9,32 +9,23 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+    fun method() {
+        fun methodKonflikFarhan() {
 
-    fun method(){
-fun methodKonflikFarhan(){
+        }
 
-}
+        fun someMethodMaulida() {
 
-
-
-
-
-
-
-
-
-    fun someMethodMaulida(){
-
-    }
-}
-
-class CariKonflik() {
-    fun raflyBinar() {
-        println("Ayo buat konflik")
+        }
     }
 
+    class CariKonflik() {
+        fun raflyBinar() {
+            println("Ayo buat konflik")
+        }
 
-    fun saddamBinar() {
-        println("tes commit saddam")
+        fun saddamBinar() {
+            println("tes commit saddam")
+        }
     }
 }
