@@ -36,4 +36,8 @@ class CariKonflik(){
     fun saddamBinar(){
         println("tes commit saddam")
     }
+
+    fun someMethodByFarhan(){
+
+    }
 }
