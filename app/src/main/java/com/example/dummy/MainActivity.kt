@@ -9,8 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-fun testingKonflikFarhan(){}
+fun method(){
 
+}
 
 
 
