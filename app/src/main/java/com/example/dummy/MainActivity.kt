@@ -28,16 +28,13 @@ fun methodKonflikFarhan(){
     }
 }
 
-class CariKonflik(){
-    fun raflyBinar(){
+class CariKonflik() {
+    fun raflyBinar() {
         println("Ayo buat konflik")
     }
 
 
-
-
-
-    fun saddamBinar(){
+    fun saddamBinar() {
         println("tes commit saddam")
     }
 }
